@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sushilgavit /Sushilgavit /output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Sushilgavit /Sushilgavit /output/snake.svg" alt="Snake animation" />-->
 
 ###
