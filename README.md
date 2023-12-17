@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e2bd453-6b87-4d60-9a04-931721265958/d9ojp49-33ad509e-e0f6-4efc-865f-6e927bf6714c.png/v1/fit/w_828,h_466,q_70,strp/eat__sleep__code__repeat__alternative_version__by_johnslegers_d9ojp49-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvN2UyYmQ0NTMtNmI4Ny00ZDYwLTlhMDQtOTMxNzIxMjY1OTU4XC9kOW9qcDQ5LTMzYWQ1MDllLWUwZjYtNGVmYy04NjVmLTZlOTI3YmY2NzE0Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5OtYXPCG_aG1YJAZdg8AYVRhHxxd2RQT3DQ3gJfBK24"  />
 </div>
 
 ###
