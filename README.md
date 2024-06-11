@@ -30,7 +30,7 @@
 ###
 
 <p align="left">🤖 Java developer @Thomas Cook </p>
- <p align="left"> ,Armed with a keyboard and a curious mind, I'm not just a programmer; I'm a storyteller in the language of binaries, crafting narratives that bring ideas .</p>
+<p align="left">Armed with a keyboard and a curious mind, I'm not just a programmer; I'm a storyteller in the language of binaries, crafting narratives that bring ideas .</p>
 
 ###
 
